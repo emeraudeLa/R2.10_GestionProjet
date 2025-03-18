@@ -1,4 +1,57 @@
-**Exo1** 
+Exo1
+---------------
 
 Défauts : 
 ligne 2 : "dessin basique"
+ligne 3 : "mots clés"
+ligne 8 : "pas trop rapide"
+
+
+////Correction////
+
+Bruit  : Ligne 2
+Surdéfinition  : Ligne 13
+Contradiction  
+Silence  : Ligne 7
+Amboguité  
+Reference en avant  : Ligne 4
+Voeu pieu (objectif)  : Ligne 7
+
+
+
+Exo 2
+---------------
+1- SE CONNECTER
+1) Listez brièvement les éléments structurants de l’Exigence :
+Acteur : Visiteur
+Entrées :
+ - Page accueil
+Actions
+ - Saisie infos connexions
+ - Système vérifie infos
+Sorties
+ -
+Intérêt pour l’utilisateur final
+ - …
+Contraintes
+ - …
+2) Rédigez l’Exigence en langage naturel à partir de ces éléments
+
+______________________________________________________________________
+
+2- CREER UNE RESERVATION
+1) Listez brièvement les éléments structurants de l’Exigence :
+Acteur : Visiteur
+Entrées :
+ - Téléphone
+Actions
+ - Réserver salle
+ - Vérifier disponibilité
+ - Accepter ou non demande de réservation
+Sorties
+ - …
+Intérêt pour l’utilisateur final
+ - …
+Contraintes
+ - …
+2) Rédigez l’Exigence en langage naturel à partir de ces éléments
